@@ -1,5 +1,4 @@
 PRODUCT_PACKAGES += \
-        AuroraStore \
         BreezyWeather \
 	GmsCore \
 	GsfProxy \
